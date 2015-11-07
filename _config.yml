@@ -1,6 +1,6 @@
 title:            Scribble
 description:      A jekyll theme. Because I scribble.
-url:              http://evilmuan.github.io/scribble
+url:              http://evilmuan.github.io
 signoff:          Mu-An Evil™
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
@@ -10,7 +10,7 @@ links:
   - name:         About
     url:          /about
   - name:         Blog
-    url:          http://evilmuan.github.io/scribble
+    url:          http://evilmuan.github.io
     external:     true
   - name:         GitHub
     url:          http://github.com/evilmuan
